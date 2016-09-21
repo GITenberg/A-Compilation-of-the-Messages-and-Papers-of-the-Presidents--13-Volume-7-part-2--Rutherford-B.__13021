@@ -1,0 +1,29 @@
+_repo: A-Compilation-of-the-Messages-and-Papers-of-the-Presidents--13-Volume-7-part-2--Rutherford-B.__13021
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Richardson, James D. (James Daniel)
+    alias: Richardson, James Daniel
+    birthdate: 1843
+    deathdate: 1914
+    gutenberg_agent_id: '3697'
+    url: http://www.gutenberg.org/2009/agents/3697
+description: ''
+gutenberg_issued: '2004-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13021'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hayes, Rutherford Birchard, 1822-1893'
+- !lcsh 'United States -- History -- Sources'
+- !lcsh 'Presidents -- United States'
+- !lcc 'J'
+- !lcsh 'United States -- Politics and government'
+- GITenberg
+title: "A Compilation of the Messages and Papers of the Presidents\r\nVolume 7, part\
+  \ 2: Rutherford B. Hayes"
+url: http://www.gutenberg.org/ebooks/13021
